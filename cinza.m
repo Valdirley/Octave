@@ -3,7 +3,7 @@ clear all
 clc
 
 img = uint8(zeros(60,256));
-figure('name', 'Imagem negra');
+figure('name', 'Imagem Preta');
 imshow(img);
 img2=img;
 
